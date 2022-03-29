@@ -1,1 +1,3 @@
-Hari ini adalah hari kamis
+hari ini adalah hari kamis
+ini kelas TI C pagi
+ini mata kuliah PPLT
